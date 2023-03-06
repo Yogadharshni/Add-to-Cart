@@ -1,0 +1,36 @@
+
+img{
+  width: 330px;
+  height: 240px;
+}
+.btnnn{
+  margin: 20px;
+}
+.item{
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  column-gap: 50px;
+  align-content: space-around;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+}
+.bar{
+  /* display: flex; */
+  justify-content: right;
+  /* background-color: rgb(68, 56, 56); */
+  margin: 20px;
+  margin-bottom: 30px;
+  
+}
+nav{
+  margin-bottom: 20px;
+  font-size: xx-large;
+  background-color: rgb(78, 80, 79);
+ 
+}
+nav .bar-btn{
+  font-size: large;
+  color: white;
+}
